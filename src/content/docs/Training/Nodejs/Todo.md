@@ -2,8 +2,6 @@
 title: Todo App
 ---
 
-
-
 > Revisiting the basics, for development of large scale apps.
 
 ## Preparations

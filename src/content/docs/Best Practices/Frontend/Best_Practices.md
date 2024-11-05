@@ -2,8 +2,6 @@
 title: Best Practices
 ---
 
-# Best Practices
-
 In this section are presented some of the best practices, and guidelines for frontend applications gathered from different sources.
 
 **Everything below should be seen as a recommendation**, not a rule. Different projects have different requirements, so any pattern mentioned in this section should be adjusted to project needs or even skipped entirely if it doesn't fit. In real world production applications you will most likely only need a fraction of those patterns depending on your use cases.

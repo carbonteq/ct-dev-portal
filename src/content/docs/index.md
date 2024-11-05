@@ -2,8 +2,6 @@
 title: Portal Intro
 ---
 
-# Portal Intro
-
 Carbonteq dev portal is an ever-evolving platform initially designed to bridge the gap between academia and industry. But from few training exercises it has evolved and became much more.
 
 Here we share industry best practices and principles to design and develop next generation software. Furthermore, we have gathered some small and concise projects to further stimulate the curiosity of undergrads and industry professional alike.

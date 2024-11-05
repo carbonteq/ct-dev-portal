@@ -2,8 +2,6 @@
 title: Principles
 ---
 
-# Principles
-
 Before listing what we have adapted so far we like to explain what are we optimizing for this will serve as good key results or a litmus test to check if you have achieved good architecture
 
 - **Independent of Frameworks.** Express/Koa is not your application.The architecture does not depend on the existence of some library of feature laden software. This allows you to use such frameworks as tools, rather than having to cram your system into their limited constraints.

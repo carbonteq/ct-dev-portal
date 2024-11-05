@@ -2,8 +2,6 @@
 title: Principles
 ---
 
-# Principles
-
 Principles play an important role providing set of rules to test the efficient implementation of best practices.
 
 - **Business Logic First.** Presentation layer and services should be designed around the business/application rules and business logic should not know anything about presentation/services layer. Start the developent process from application logic and then gradually add presentation layer.

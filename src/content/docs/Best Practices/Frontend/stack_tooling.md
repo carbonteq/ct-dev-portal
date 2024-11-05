@@ -2,8 +2,6 @@
 title: Stack/Tooling
 ---
 
-# Stack/Tooling
-
 This section represents the tooling and libraries we are using (denoted by ⭐) and planning to use (✨) in the future.
 
 ## Libraries
