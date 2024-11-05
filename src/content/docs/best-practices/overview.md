@@ -2,8 +2,6 @@
 title: Overview
 ---
 
-# Overview
-
 This section goes over a set of techniques, principles and standards which can make your code simple, readable,
 reliable, less error-prone and easier to understand, test, maintain, debug, extend and scale. You'll usually not be
 working on a project alone. The easier you make it to reason about your code, the less time and cognitive resources you
