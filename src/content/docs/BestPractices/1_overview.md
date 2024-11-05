@@ -1,7 +1,12 @@
 ---
-title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
+title: Overview
+description: This section goes over a set of techniques, principles and standards which can make your code simple, readable,
+reliable, less error-prone and easier to understand, test, maintain, debug, extend and scale. You'll usually not be
+working on a project alone. The easier you make it to reason about your code, the less time and cognitive resources you
+and others have to spend on the coding part of things, leaving you with more of both for solving the actual problem for
+which you are writing this code.
 ---
+
 # Overview
 
 This section goes over a set of techniques, principles and standards which can make your code simple, readable,

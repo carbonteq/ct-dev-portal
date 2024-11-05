@@ -1,7 +1,8 @@
 ---
-title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
+title: Stack/Tooling
+description: This section represents the tooling and libraries we are using (denoted by ⭐) and planning to use (✨) in the future.
 ---
+
 # Stack/Tooling
 
 This section represents the tooling and libraries we are using (denoted by ⭐) and planning to use (✨) in the future.

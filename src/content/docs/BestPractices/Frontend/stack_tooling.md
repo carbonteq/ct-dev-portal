@@ -1,8 +1,10 @@
 ---
-title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
+title: Stack/Tooling
+description: This section represents the tooling and libraries we are using (denoted by ⭐) and planning to use (✨) in the future.
 ---
+
 # Stack/Tooling
+
 This section represents the tooling and libraries we are using (denoted by ⭐) and planning to use (✨) in the future.
 
 ## Libraries
@@ -39,6 +41,7 @@ This section represents the tooling and libraries we are using (denoted by ⭐) 
 - [Flipper](https://github.com/facebook/flipper) ⭐
 
 ### Http Client
+
 - [React Query](https://react-query-v3.tanstack.com/) ✨
 - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/fetch) ⭐
 - [Axios](https://github.com/axios/axios) ⭐
