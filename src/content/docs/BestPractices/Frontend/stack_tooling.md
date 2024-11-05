@@ -1,3 +1,7 @@
+---
+title: Real Estate Analytic Application
+description: Learn more about the project I’m working on.
+---
 # Stack/Tooling
 This section represents the tooling and libraries we are using (denoted by ⭐) and planning to use (✨) in the future.
 
@@ -48,4 +52,3 @@ This section represents the tooling and libraries we are using (denoted by ⭐) 
 
 - [LESS](https://lesscss.org/) ⭐
 - [Tailwind](https://tailwindcss.com/) ✨
-

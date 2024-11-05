@@ -1,0 +1,37 @@
+---
+const { children } = Astro.props;
+---
+
+<a target="_blank" href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t">
+  <div
+    style="
+      border: 1px solid #EEE;
+      border-radius: 24px;
+      padding: 12px 36px 12px 12px;
+      display: inline-block;
+      background-color: white;
+      z-index: 100;
+      position: relative;
+    "
+  >
+    <h2>React Render Tutorial - YouTube</h2>
+    <div style="display: flex; justify-content: space-between;">
+      <span>Codevolution</span>
+      <span>⏱️ 107m</span>
+    </div>
+  </div>
+  <img
+    style="
+      min-width: 500px;
+      margin-top: -40px;
+      border: 1px solid;
+      border-radius: 24px;
+      display: flex;
+      justify-content: space-between;
+      object-fit: fill;
+    "
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6IlmkTTIZ_fK8-YcAWkZ1xPbkZwoptEnIH4CNlQsCsMkGg"
+  />
+
+  {children}
+</a>

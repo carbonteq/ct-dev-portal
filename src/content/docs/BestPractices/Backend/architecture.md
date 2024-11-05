@@ -1,3 +1,7 @@
+---
+title: Real Estate Analytic Application
+description: Learn more about the project I’m working on.
+---
 # Architecture
 
 At Carbonteq, we have found a great amalgam of architectural patterns and principles, we intend these to be _basic building blocks of reasoning_ which can be used to deduce surprising or difficult things.

@@ -1,3 +1,7 @@
+---
+title: Real Estate Analytic Application
+description: Learn more about the project I’m working on.
+---
 # Best Practices
 
 In this section are presented some of the best practices, and guidelines for frontend applications gathered from different sources.

@@ -1,3 +1,7 @@
+---
+title: Real Estate Analytic Application
+description: Learn more about the project I’m working on.
+---
 # Starlight Starter Kit: Basics
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)

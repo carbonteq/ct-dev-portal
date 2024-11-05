@@ -1,0 +1,8 @@
+---
+// Define the props at the top
+const { children, link } = Astro.props;
+---
+
+<a class="card" target="_blank" href={link}>
+  <slot />
+</a>

@@ -1,0 +1,7 @@
+---
+const { children, flex = 1, justifyContent = 'flex-start' } = Astro.props;
+---
+
+<div style="display: flex; flex-direction: row; flex: {flex}; justify-content: {justifyContent};">
+  <slot />
+</div>

@@ -1,3 +1,7 @@
+---
+title: Real Estate Analytic Application
+description: Learn more about the project I’m working on.
+---
 # Peer-to-Peer Communication
 
 Peer-to-peer applications are a common feature of computing today. Services from BitTorrent to Skype all rely on direct client to client contact. In this programming assignment you will construct a simple peer-to-peer based relay application. This application will demonstrate the basic operation of peer-to-peer communication.

@@ -1,3 +1,7 @@
+---
+title: Real Estate Analytic Application
+description: Learn more about the project I’m working on.
+---
 # Principles
 
 Principles play an important role providing set of rules to test the efficient implementation of best practices.

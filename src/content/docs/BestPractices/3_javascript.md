@@ -1,3 +1,7 @@
+---
+title: Real Estate Analytic Application
+description: Learn more about the project I’m working on.
+---
 # JavaScript/Typescript
 
 ## General Practices for JS and TS

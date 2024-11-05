@@ -1,0 +1,6 @@
+.mission {
+  display: flex;
+  align-items: start;
+  padding: 2rem 0;
+  width: 100%;
+}

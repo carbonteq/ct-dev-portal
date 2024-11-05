@@ -1,3 +1,7 @@
+---
+title: Real Estate Analytic Application
+description: Learn more about the project I’m working on.
+---
 # Overview
 
 This section goes over a set of techniques, principles and standards which can make your code simple, readable,

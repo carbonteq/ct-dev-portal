@@ -1,6 +1,8 @@
 ---
-sidebar_position: 1
+title: Introduction
+description: Learn more about the project I’m working on.
 ---
+
 
 # Portal Intro
 

@@ -1,3 +1,7 @@
+---
+title: Real Estate Analytic Application
+description: Learn more about the project I’m working on.
+---
 # Build your own Virtual DOM
 
 ## Problem Statement:
@@ -112,4 +116,3 @@ Your Virtual DOM library should be designed to handle changes to the application
 6. <a href = "https://www.youtube.com/watch?v=i793Qm6kv3U"> Understanding React's UI Rendering Process </a>
 7. <a href = "https://indepth.dev/posts/1501/exploring-how-virtual-dom-is-implemented-in-react"> Exploring how virtual DOM is implemented in React </a>
 8. <a href = "https://dev.to/maulik/the-best-example-to-understand-virtual-dom-4lfn" > The best example to understand virtual DOM </a>
-
