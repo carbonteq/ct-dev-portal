@@ -1,6 +1,5 @@
 ---
-title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
+title: Build Your Own Single Sign On Server
 ---
 # Build Your Own Single Sign On Server
 

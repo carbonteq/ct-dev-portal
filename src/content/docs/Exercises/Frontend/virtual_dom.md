@@ -1,6 +1,5 @@
 ---
-title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
+title: Build your own Virtual DOM
 ---
 # Build your own Virtual DOM
 

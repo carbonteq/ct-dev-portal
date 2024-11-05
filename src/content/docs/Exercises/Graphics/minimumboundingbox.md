@@ -1,6 +1,5 @@
 ---
-title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
+title: Minimum Bounding Box
 ---
 # Minimum Bounding Box
 
