@@ -1,7 +1,7 @@
 ---
-title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
+title: Task for Web QA Automation
 ---
+
 # Task for Web QA Automation
 
 ## The Goal

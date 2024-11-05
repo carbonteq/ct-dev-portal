@@ -1,6 +1,5 @@
 ---
 title: Principles
-description: Before listing what we have adapted so far we like to explain what are we optimizing for this will serve as good key results or a litmus test to check if you have achieved good architecture
 ---
 
 # Principles

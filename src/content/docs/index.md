@@ -1,8 +1,6 @@
 ---
-title: Introduction
-description: Learn more about the project I’m working on.
+title: Portal Intro
 ---
-
 
 # Portal Intro
 

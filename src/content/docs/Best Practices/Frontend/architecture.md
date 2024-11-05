@@ -1,6 +1,5 @@
 ---
 title: React Architecture
-description: Patterns or practices described here are based on one’s experience. They may not work for every large-scale application of every kind. Take the parts that resonate with you or you think will help you get things more organized in your React project and leave out the rest.
 ---
 
 # React Architecture

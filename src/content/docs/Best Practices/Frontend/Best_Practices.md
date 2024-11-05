@@ -1,6 +1,5 @@
 ---
 title: Best Practices
-description: In this section are presented some of the best practices, and guidelines for frontend applications gathered from different sources.
 ---
 
 # Best Practices

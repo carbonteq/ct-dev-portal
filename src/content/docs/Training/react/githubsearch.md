@@ -1,9 +1,5 @@
 ---
-title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
----
----
-sidebar_position: 1
+title: Github Search
 ---
 
 # Github Search
@@ -45,9 +41,11 @@ Here are some of the items that you should take care of
 The UI for the results could roughly look like below. The design for repository and user cards are up to you.
 
 #### Light Mode
+
 ![](./assets/mockup-4.png)
 
-#### Dark Mode 
+#### Dark Mode
+
 ![](./assets/mockup-2.png)
 
 For each repository display the repository user details returned from API and the repository name, author, stars and other statistics below it. For the users, show the profile picture, name, location, any other data you have and link to their profile.

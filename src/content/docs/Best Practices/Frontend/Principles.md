@@ -1,6 +1,5 @@
 ---
 title: Principles
-description: Principles play an important role providing set of rules to test the efficient implementation of best practices.
 ---
 
 # Principles

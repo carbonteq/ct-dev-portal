@@ -1,6 +1,5 @@
 ---
 title: Stack/Tooling
-description: This section represents the tooling and libraries we are using (denoted by ⭐) and planning to use (✨) in the future.
 ---
 
 # Stack/Tooling

@@ -1,7 +1,7 @@
 ---
-title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
+title: Deploy an Application Using Kubernetes and Docker Containers
 ---
+
 # Deploy an Application Using Kubernetes and Docker Containers
 
 ## Problem Statement

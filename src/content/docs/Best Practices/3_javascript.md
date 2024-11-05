@@ -1,6 +1,5 @@
 ---
 title: JavaScript/Typescript
-description: General Practices for JS and TS
 ---
 
 # JavaScript/Typescript

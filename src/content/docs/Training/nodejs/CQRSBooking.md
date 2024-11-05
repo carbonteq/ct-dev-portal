@@ -1,9 +1,5 @@
 ---
-title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
----
----
-sidebar_position: 2
+title: CQRS Booking
 ---
 
 # CQRS Booking

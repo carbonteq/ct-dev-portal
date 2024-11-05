@@ -1,7 +1,7 @@
 ---
 title: Real Estate Analytic Application
-description: Learn more about the project I’m working on.
 ---
+
 # Real Estate Analytic Application
 
 This is a fictional company whose primary goal is to analyze real estate data and find opportunities in near real time, by comparing listings.

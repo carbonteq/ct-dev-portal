@@ -1,6 +1,5 @@
 ---
 title: Best Practices
-description: In this section are presented some of the best practices, and guidelines for backend applications gathered from different sources. Best Practices Mentioned here are language agnostic and can be used in any backend project
 ---
 
 # Best Practices
