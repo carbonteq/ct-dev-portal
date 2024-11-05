@@ -1,7 +1,6 @@
 ---
 title: Build Your Own Single Sign On Server
 ---
-# Build Your Own Single Sign On Server
 
 ## Problem Statement:
 

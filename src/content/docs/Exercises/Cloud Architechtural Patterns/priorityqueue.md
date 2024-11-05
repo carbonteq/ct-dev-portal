@@ -1,7 +1,6 @@
 ---
 title: Priority Queue (Single Pool)
 ---
-# Priority Queue (Single Pool)
 
 ## Pattern Overview
 

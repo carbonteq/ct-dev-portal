@@ -2,7 +2,6 @@
 title: CQRS Booking
 ---
 
-# CQRS Booking
 
 You should implement a simple booking solution in CQRS architecture.
 

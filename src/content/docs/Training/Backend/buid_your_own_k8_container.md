@@ -1,7 +1,6 @@
 ---
 title: Deploy an Application Using Kubernetes and Docker Containers
 ---
-# Deploy an Application Using Kubernetes and Docker Containers
 
 ## Problem Statement
 

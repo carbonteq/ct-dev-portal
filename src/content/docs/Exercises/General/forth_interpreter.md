@@ -1,7 +1,6 @@
 ---
 title: Interpreter for (a small subset of) Forth
 ---
-# Interpreter for (a small subset of) Forth
 
 ## Intro to Forth
 

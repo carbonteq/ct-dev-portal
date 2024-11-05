@@ -1,7 +1,6 @@
 ---
 title: Websocket Client/Server
 ---
-# Websocket Client/Server
 
 > ### With Json as Sub-Protocol
 

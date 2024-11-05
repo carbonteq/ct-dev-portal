@@ -1,7 +1,6 @@
 ---
 title: DNS Client
 ---
-# DNS Client
 
 The goal of this exercise is to implement a dns client library which supports querying a public DNS server (configurable) for A record (IPv4), AAAA records (IPv6) and CNAME records (alias).
 

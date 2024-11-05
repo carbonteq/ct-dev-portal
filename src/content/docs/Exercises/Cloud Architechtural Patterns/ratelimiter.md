@@ -1,7 +1,6 @@
 ---
 title: Rate Limiting / Throttling Algorithm
 ---
-# Rate Limiting / Throttling Algorithm
 
 ## Pattern Overview
 

@@ -1,7 +1,6 @@
 ---
 title: Build your own Virtual DOM
 ---
-# Build your own Virtual DOM
 
 ## Problem Statement:
 

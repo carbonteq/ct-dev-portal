@@ -1,7 +1,6 @@
 ---
 title: TCP Tunnel + Sniffer
 ---
-# TCP Tunnel + Sniffer
 
 ## Objective
 

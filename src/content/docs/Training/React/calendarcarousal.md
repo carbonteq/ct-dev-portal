@@ -3,7 +3,6 @@ title: Calendar Carousal
 ---
 
 
-# Calendar Carousal
 
 Calendar carousal is a mobile friendly component which give emphasis on selected date and time, you might have seen similar examples in booking related websites where selected dates must remain visible at all times for good UX.
 

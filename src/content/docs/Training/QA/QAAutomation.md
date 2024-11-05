@@ -1,7 +1,6 @@
 ---
 title: Task for Mobile QA Automation
 ---
-# Task for Mobile QA Automation
 
 ## The Goal
 

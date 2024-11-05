@@ -3,7 +3,6 @@ title: Github Search
 ---
 
 
-# Github Search
 
 > Build a GitHub repository search application
 

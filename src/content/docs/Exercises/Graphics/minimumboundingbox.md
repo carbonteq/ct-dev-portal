@@ -1,7 +1,6 @@
 ---
 title: Minimum Bounding Box
 ---
-# Minimum Bounding Box
 
 ## [Rotating Caliper](https://en.wikipedia.org/wiki/Rotating_calipers)
 

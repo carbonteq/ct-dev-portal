@@ -1,7 +1,6 @@
 ---
 title: Interpolation
 ---
-# Interpolation
 
 ### Linear Interpolation
 

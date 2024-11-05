@@ -1,7 +1,6 @@
 ---
 title: Point in Polygon
 ---
-# Point in Polygon
 
 ## Ray Casting Algorithm
 

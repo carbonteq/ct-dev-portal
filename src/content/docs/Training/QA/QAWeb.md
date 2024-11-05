@@ -1,7 +1,6 @@
 ---
 title: Task for Web QA Automation
 ---
-# Task for Web QA Automation
 
 ## The Goal
 

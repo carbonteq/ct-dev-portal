@@ -1,7 +1,6 @@
 ---
 title: Circuit Breaker
 ---
-# Circuit Breaker
 
 ## Overview
 
