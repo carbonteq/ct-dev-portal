@@ -32,6 +32,6 @@ Material in build your own x is meant for people who have special love for compu
 More well suited for undergrads to hone their skills by solving real problems
 :::
 
-## What is not
+## What it's not
 
 It's not supposed to be a step-by-step guide to accomplish some technical feat, readers are generally given community gems, best practices learning materials to develop their own understanding and think critically about the task at hand, along with accomplishing some set of expectation.
