@@ -2,6 +2,7 @@
 title: Real Estate Analytic Application
 description: Learn more about the project I’m working on.
 ---
+
 # Starlight Starter Kit: Basics
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
@@ -40,6 +41,10 @@ Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. 
 Images can be added to `src/assets/` and embedded in Markdown with a relative link.
 
 Static assets, like favicons, can be placed in the `public/` directory.
+
+## Note
+
+The file/folder names under docs should be in lowercase if using custom sidebar mappings.
 
 ## 🧞 Commands
 
