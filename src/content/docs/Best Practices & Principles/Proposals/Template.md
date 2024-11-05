@@ -1,11 +1,13 @@
 ---
-title: Neat Enhancement Idea
+title: Template
 ---
 
 |                            |                                                |               |               |                   |                  |
 | -------------------------- | ---------------------------------------------- | ------------- | ------------- | ----------------- | ---------------- |
 | **Title**                  | **Authors**                                    | **Reviewers** | **Approvers** | **Creation Date** | **Last Updated** |
 | Title for enhancement idea | @sbose78 <br/> # Authors' github accounts here | @reviwer      | @approver     | yyyy-mm-dd        | yyyy-mm-dd       |
+
+## Neat Enchanement Idea
 
 This is the title of the enhancement. Keep it simple and descriptive. A good title can help
 communicate what the enhancement is and should be considered as part of any review.
