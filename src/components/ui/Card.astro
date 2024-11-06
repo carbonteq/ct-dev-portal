@@ -3,6 +3,7 @@
 const { children, link } = Astro.props;
 ---
 
-<a class="card" target="_blank" href={link}>
-  <slot />
+<a class="remove-underline" target="_blank" href={link}>
+  <div class="card" >  <slot />
+</div>
 </a>

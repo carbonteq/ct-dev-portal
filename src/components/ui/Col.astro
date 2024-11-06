@@ -1,7 +1,7 @@
 ---
-const { children, flex = 'none', justifyContent = 'flex-start', alignItems = 'flex-start' } = Astro.props;
+const { flex = 'none', justifyContent = 'flex-start', alignItems = 'flex-start', marginTop = 0 } = Astro.props;
 ---
 
-<div style="display: flex; flex-direction: column; flex: {flex}; justify-content: {justifyContent}; align-items: {alignItems};">
+<div style=`display: flex; flex-direction: column; flex: ${flex}; justify-content: ${justifyContent}; align-items: ${alignItems}; margin-top: ${marginTop}`>
   <slot />
 </div>
