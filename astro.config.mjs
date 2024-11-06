@@ -7,6 +7,12 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Carbonteq Developer Portal",
+    
+       logo: {
+          light: './src/assets/logo-light.svg',
+          dark: './src/assets/logo-dark.svg',
+       },
+      favicon: 'public/favicon.svg',
       social: {
         github: "https://github.com/withastro/starlight",
       },

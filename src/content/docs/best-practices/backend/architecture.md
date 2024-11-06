@@ -8,7 +8,7 @@ You have already gone through [SOLID](../2_solid.md) by now, I presume. Another 
 the [clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html). Note that we
 don't follow the pattern itself dogmatically, but rather use the principles that guide it.
 
-![Clean Architecture](/img/best_practices/CleanArchitecture.jpg)
+![Clean Architecture](public/img/best_practices/CleanArchitecture.jpg)
 
 The crux of the hexagonal architecture and the clean architecture lies in two main concepts: layers, and ports and
 adapters.

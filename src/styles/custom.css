@@ -20,3 +20,7 @@
 .remove-underline {
   text-decoration: none;
 }
+
+.site-title span {
+    display: none;
+}
