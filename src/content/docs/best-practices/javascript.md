@@ -175,7 +175,7 @@ const dbURI =
 const dbURI = `mysql://${dbUser}:${dbPass}@${dbHost}:${dbPort}/${dbName}`;
 ```
 
-### ["for … of" Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+### "for … of" Loops
 
 Suppose you have to iterate over every element of an iterable (like an array). One way to do that would be:
 
