@@ -1,11 +1,9 @@
-
-
-
 .card {
   /* border: 1px solid #ccc; */
   border-radius: 8px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 20px;
+
   >h4 {
     margin-top: 16px !important;
   }
@@ -19,5 +17,19 @@
 }
 
 .site-title span {
-    display: none;
+  display: none;
+}
+
+:root[data-theme="light"] {
+  --sl-hue-blue: 210;
+  --sl-hue-purple: 260;
+  --sl-color-purple-low: hsl(var(--sl-hue-purple), 100%, 94.13%);
+  --sl-color-purple: hsl(var(--sl-hue-purple), 82%, 63%);
+  --sl-color-purple-high: hsl(var(--sl-hue-purple), 39%, 22%);
+
+  --sl-color-blue-low: hsl(var(--sl-hue-blue), 100%, 94.13%);
+  --sl-color-blue: hsl(var(--sl-hue-blue), 82%, 63%);
+  --sl-color-blue-high: hsl(var(--sl-hue-blue), 39%, 22%);
+
+  --sl-color-black: #fefffe;
 }
