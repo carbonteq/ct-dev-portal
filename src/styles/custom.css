@@ -31,7 +31,7 @@
 
 .starlight-aside__img {
   position: absolute;
-  top: -28px;
+  top: -35px;
   right: -16px;
   transform: rotate(-4deg);
   filter: drop-shadow(2.5px 2px 4px #6a6a6a);
@@ -50,7 +50,7 @@
 .starlight-aside__img--tip {
   transform: rotate(-4deg);
   right: -30px;
-  top: -30px;
+  top: -38px;
 }
 
 
@@ -103,4 +103,11 @@
   }
   
 
+}
+
+:root[data-theme="dark"] {
+  --sl-color-orange-low: hsl(41deg 89.65% 35.73%);
+  --sl-color-red-low: hsl(339deg 61.52% 35.48%);
+  --sl-color-blue-low: hsl(234deg 57.9% 40.04%);
+  --sl-color-purple-low: hsl(281deg 71.12% 35.37%);
 }
