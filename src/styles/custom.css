@@ -59,7 +59,18 @@
 }
 
 
+.starlight-aside__title {
+  font-family: 'BigCake', sans-serif;
+  font-weight: normal;
+  font-size: 1.5rem;
+}
 
+.main-pane {
+  font-family: 'VactorySans', sans-serif;
+  background-size: 16px 16px;
+  background-image: radial-gradient(circle, #32382c 1px, rgba(175, 189, 181, 0) 1px);
+  border-inline-start-width: .15rem;
+}
 
 
 :root[data-theme="light"] {
@@ -84,21 +95,12 @@
 
   --sl-color-black: #fefffe;
 
-
-  .starlight-aside__title {
-    font-family: 'BigCake', sans-serif;
-    font-weight: normal;
-    font-size: 1.5rem;
-  }
-
-
-
-
   .main-pane {
     font-family: 'VactorySans', sans-serif;
     background-size: 16px 16px;
     background-image: radial-gradient(circle, #e0efd3 1px, rgba(175, 189, 181, 0) 1px);
     border-inline-start-width: .15rem;
   }
+  
 
 }
