@@ -34,7 +34,7 @@ export default defineConfig({
 				github: "https://github.com/withastro/starlight",
 			},
 			customCss: [
-				"./src/fonts/bigCake.css",
+				"./src/fonts/vactorySansFontFace.css",
 				"./src/fonts/kgHappyFontFace.css",
 				"./src/styles/custom.css",
 				"./src/tailwind.css",
