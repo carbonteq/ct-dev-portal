@@ -1,12 +1,47 @@
 ---
-import type { Props } from '@astrojs/starlight/props';
-import Default from '@astrojs/starlight/components/SocialIcons.astro';
+import { AstroError } from 'astro/errors';
+import Note from '../../assets/aside/note1.png'
+import Tip from '../../assets/aside/tip1.png'
+import Caution from '../../assets/aside/caution1.png'
+import Danger from '../../assets/aside/danger1.png'
+import { Image } from 'astro:assets';
+
+
+
+const asideVariants = ['note', 'tip', 'caution', 'danger'] as const;
+const icons = { note: Note, tip: Tip, caution: Caution, danger: Danger } as const;
+
+
+interface Props {
+	type?: (typeof asideVariants)[number];
+	title?: string;
+  showIcon?: boolean;
+}
+
+let { type = 'note', title, showIcon = true } = Astro.props;
+
+if (!asideVariants.includes(type)) {
+	throw new AstroError(
+		'Invalid `type` prop passed to the `<Aside>` component.\n',
+		`Received: ${JSON.stringify(type)}\n` +
+			`Expected one of ${asideVariants.map((i) => JSON.stringify(i)).join(', ')}`
+	);
+}
+
+if (!title) {
+	title = Astro.locals.t(`aside.${type}`);
+}
 ---
 
+<aside aria-label={title} class={`starlight-aside starlight-aside--${type}`}>
+	<p class="starlight-aside__title" aria-hidden="true">
+		{showIcon && <Image height={80} class={`starlight-aside__img starlight-aside__img--${type}`} src={icons[type]} alt={title} />}
+		{title}
+	</p>
+	<div class="starlight-aside__content">
+
+		<slot />
 
 
-<Default {...Astro.props}>
-
-
-  <slot />
-</Card>
+	</div>
+</aside>

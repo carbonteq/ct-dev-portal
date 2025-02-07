@@ -24,29 +24,76 @@
   font-family: 'VactorySans', sans-serif;
 }
 
+.starlight-aside__title {
+  position: relative;
+
+}
+
+.starlight-aside__img {
+  position: absolute;
+  top: -28px;
+  right: -16px;
+  transform: rotate(-4deg);
+  filter: drop-shadow(2.5px 2px 4px #6a6a6a);
+}
+
+.starlight-aside__img--note {
+  transform: scaleX(-1) rotate(5deg);
+  filter: drop-shadow(-2.5px -2px 4px #6a6a6a);
+}
+
+.starlight-aside__img--danger {
+  transform: rotate(4deg);
+  right: -22px;
+}
+
+.starlight-aside__img--tip {
+  transform: rotate(-4deg);
+  right: -30px;
+  top: -30px;
+}
+
+
+.pagination-links a{
+  background-color: #fefffe;
+}
+
+
+
+
+
 :root[data-theme="light"] {
   --sl-hue-blue: 210;
   --sl-hue-purple: 260;
-  --sl-color-purple-low: hsl(var(--sl-hue-purple), 100%, 94.13%);
+  --sl-color-purple-low: hsl(var(--sl-hue-purple), 100%, 97%);
   --sl-color-purple: hsl(var(--sl-hue-purple), 82%, 63%);
   --sl-color-purple-high: hsl(var(--sl-hue-purple), 39%, 22%);
 
-  --sl-color-blue-low: hsl(var(--sl-hue-blue), 100%, 94.13%);
+  --sl-color-blue-low: hsl(var(--sl-hue-blue), 100%, 96%);
   --sl-color-blue: hsl(var(--sl-hue-blue), 82%, 63%);
   --sl-color-blue-high: hsl(var(--sl-hue-blue), 39%, 22%);
 
+  --sl-color-orange-low: hsl(var(--sl-hue-orange), 100%, 96%);
+  --sl-color-orange: hsl(var(--sl-hue-orange), 82%, 63%);
+  --sl-color-orange-high: hsl(var(--sl-hue-orange), 39%, 22%);
+
+  --sl-color-red-low: hsl(var(--sl-hue-red), 100%, 96%);
+  --sl-color-red: hsl(var(--sl-hue-red), 82%, 63%);
+  --sl-color-red-high: hsl(var(--sl-hue-red), 39%, 22%);
+
+
   --sl-color-black: #fefffe;
 
-  
+
   .starlight-aside__title {
     font-family: 'BigCake', sans-serif;
     font-weight: normal;
     font-size: 1.5rem;
   }
 
-  
-  
-  
+
+
+
   .main-pane {
     font-family: 'VactorySans', sans-serif;
     background-size: 16px 16px;
