@@ -1,8 +1,8 @@
 import starlightPlugin from '@astrojs/starlight-tailwind';
 
 // Generated color palettes
-const accent = { 200: '#c3d18e', 600: '#495300', 900: '#2f3700', 950: '#212700' };
-const gray = { 100: '#f2f7f9', 200: '#e5f0f3', 300: '#b8c5c8', 400: '#779197', 500: '#455d63', 700: '#263c42', 800: '#142b30', 900: '#101a1c' };
+const accent = { 200: '#c4cdb1', 600: '#5e7311', 900: '#2d3711', 950: '#212710' };
+const gray = { 100: '#f6f6f6', 200: '#eeeeee', 300: '#c2c2c2', 400: '#8b8b8b', 500: '#585858', 700: '#383838', 800: '#272727', 900: '#181818' };
 
 /** @type {import('tailwindcss').Config} */
 export default {

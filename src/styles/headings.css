@@ -1,8 +1,27 @@
-.sl-markdown-content :is(h1, h2, h3, h4, h5, h6) > a {
-    text-decoration: none;
-  
-    &:hover {
-      text-decoration: underline;
-    }
+#_top {
+  font-family: 'kgHappyFont', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: normal;
+}
+
+
+
+
+.sl-markdown-content :is(h1, h2, h3, h4, h5, h6)>a {
+  text-decoration: none;
+  font-family: 'kgHappyFont', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: normal;
+
+  &:hover {
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    color: inherit;
   }
-  
+
+  strong {
+    font-weight: normal;
+  }
+}

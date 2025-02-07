@@ -20,6 +20,10 @@
   display: none;
 }
 
+.sidebar-content {
+  font-family: 'VactorySans', sans-serif;
+}
+
 :root[data-theme="light"] {
   --sl-hue-blue: 210;
   --sl-hue-purple: 260;
@@ -32,4 +36,22 @@
   --sl-color-blue-high: hsl(var(--sl-hue-blue), 39%, 22%);
 
   --sl-color-black: #fefffe;
+
+  
+  .starlight-aside__title {
+    font-family: 'BigCake', sans-serif;
+    font-weight: normal;
+    font-size: 1.5rem;
+  }
+
+  
+  
+  
+  .main-pane {
+    font-family: 'VactorySans', sans-serif;
+    background-size: 16px 16px;
+    background-image: radial-gradient(circle, #e0efd3 1px, rgba(175, 189, 181, 0) 1px);
+    border-inline-start-width: .15rem;
+  }
+
 }

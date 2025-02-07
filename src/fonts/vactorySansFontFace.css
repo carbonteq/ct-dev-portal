@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'VactorySans';
+    /* Use a relative path to the local font file in `url()`. */
+    src: url('./VactorySansRegular-drrAV.woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
