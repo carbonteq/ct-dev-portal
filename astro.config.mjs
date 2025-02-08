@@ -46,8 +46,10 @@ export default defineConfig({
 					label: "Portal Intro",
 					items: [
 						{ label: "❄️ Overview", slug: "index" },
+						{ label: "💡 Why We Exist", slug: "about-us/why-we-exist" },
 						{ label: "📖 How We Learn", slug: "about-us/learningatcarbonteq" },
-						{ label: "👻How We Critique", slug: "about-us/howwecritique" },
+						{ label: "👻 How We Critique", slug: "about-us/howwecritique" },
+						{ label: "👷🏻‍♂️ Working Agreement 3.0", slug: "about-us/workingaggrement" },
 					],
 				},
 				{
